@@ -1,5 +1,7 @@
 # SimpleConfig
 
+### Contributed by @Smellon69
+
 SimpleConfig is a lightweight C++ library for easy configuration management. It provides a simple API for loading, parsing, and manipulating configuration files. Designed for efficiency and minimal dependencies, it's perfect for projects needing straightforward config handling.
 
 ## Features
